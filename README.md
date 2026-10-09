@@ -1,6 +1,6 @@
 # Bilhares quânticos e caos: iniciação científica e monografia em Física (Unicamp, 2014–2015)
 
-Iniciação científica com bolsa FAPESP (processo 2014/07193-1, de agosto de 2014 a julho de 2015) e monografia de conclusão do bacharelado em Física (disciplina F 896, dezembro de 2015), ambas orientadas pelo **Prof. Alberto Saa** (IMECC/Unicamp).
+Iniciação científica com bolsa FAPESP (processo 2014/07193-1, de julho de 2014 a junho de 2015) e monografia de conclusão do bacharelado em Física (disciplina F 896, dezembro de 2015), ambas orientadas pelo **Prof. Alberto Saa** (IMECC/Unicamp).
 
 Um bilhar é uma partícula livre dentro de uma região fechada, refletindo na borda. No caso clássico, a forma da mesa decide se as trajetórias são regulares, como no círculo e no retângulo, ou caóticas, como no estádio de Bunimovich e no bilhar de Sinai. No caso quântico, o problema vira a equação de Helmholtz com a função de onda nula na borda. O caos deixa de aparecer nas trajetórias e passa a aparecer na forma das autofunções e na estatística dos níveis de energia. Este repositório reúne os relatórios, a monografia e os notebooks do Mathematica em que resolvi esses problemas.
 
@@ -89,6 +89,16 @@ O repositório não tem licença de uso: os direitos são do autor, e a leitura 
 - D. L. Kaufman, I. Kosztin e K. Schulten, "Expansion method for stationary states of quantum billiards", *American Journal of Physics* 67, 133 (1999).
 - H.-J. Stöckmann, *Quantum Chaos: An Introduction*, Cambridge University Press, 1999.
 - A. Saa, "On the viability of local criteria for chaos", *Annals of Physics* 314, 508 (2004).
+
+## Apoio
+
+O presente trabalho foi realizado com apoio da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP), Brasil. Processo nº 2014/07193-1.
+
+This study was financed, in part, by the São Paulo Research Foundation (FAPESP), Brasil. Process Number #2014/07193-1.
+
+As opiniões, hipóteses e conclusões ou recomendações expressas neste material são de responsabilidade do(s) autor(es) e não necessariamente refletem a visão da FAPESP.
+
+O registro da bolsa está na [Biblioteca Virtual da FAPESP](https://bv.fapesp.br/pt/bolsas/152180/).
 
 ## Autor
 
