@@ -1,0 +1,8 @@
+# Mathematica
+*.nbi
+*.nbc
+*.mx
+# Sistema
+.DS_Store
+desktop.ini
+Thumbs.db
