@@ -79,9 +79,29 @@ Este repositório foi montado em 2026 a partir do meu Google Drive.
   - os formulários e documentos da FAPESP;
   - os livros e artigos da bibliografia;
   - o simulador de bilhar clássico em MATLAB usado na monografia, que é de terceiros (*Billiard Simulator*, no MATLAB File Exchange).
-- **Figuras de terceiros.** Algumas figuras dos PDFs vêm da literatura citada: as fotos de figuras de Chladni e de ondas na água, o diagrama de bifurcação do mapa logístico, as distribuições de espaçamento de níveis e os expoentes de Lyapunov do estádio. As figuras deste README e dos notebooks são minhas.
+- **Figuras de terceiros.** Algumas figuras dos PDFs são de outros autores; a fonte de cada uma está na seção seguinte. As figuras deste README e dos notebooks são minhas.
 
 O repositório não tem licença de uso: os direitos são do autor, e a leitura é livre.
+
+## Figuras de terceiros
+
+Os PDFs reproduzem figuras de outros autores, para fins de estudo. Na época, nem todas as legendas indicaram a fonte, que vai aqui.
+
+| Documento | Figura | Fonte |
+|---|---|---|
+| Relatório final | 1.1, trajetória caótica no estádio | Origem não identificada; não foi feita nos notebooks deste repositório |
+| Relatório final | 1.6, o potencial do método da expansão | Adaptação da Fig. 1 de D. L. Kaufman, I. Kosztin e K. Schulten, "Expansion method for stationary states of quantum billiards", *American Journal of Physics* 67, 133 (1999) |
+| Relatório final | 1.13, figuras de Chladni | H.-J. Stöckmann, *Quantum Chaos: An Introduction*, Cambridge University Press, 1999, Fig. 2.2 |
+| Relatório final | 1.15, ondas na superfície da água | Stöckmann (1999), Figs. 2.4(a) e 2.5(a), que reproduzem R. Blümel, I. H. Davidson, W. P. Reinhardt, H. Lin e M. Sharnoff, "Quasilinear ridge structures in water surface waves", *Physical Review A* 45, 2641 (1992) |
+| Monografia | 3.1, diagrama de bifurcação do mapa logístico | Jordan Pierce, [*Logistic Bifurcation map High Resolution*](https://commons.wikimedia.org/wiki/File:Logistic_Bifurcation_map_High_Resolution.png), Wikimedia Commons, em domínio público (CC0) |
+| Monografia | 3.2, expoente de Lyapunov do mapa logístico | Gráfico do código MATLAB do Apêndice 1 (ver a última linha) |
+| Monografia | 3.3, trajetória numa mesa qualquer | W. T. R. Fernandes, [*Propriedades Ergódicas do Bilhar no Estádio Elíptico*](https://repositorio.ufjf.br/jspui/handle/ufjf/10863), dissertação de mestrado, UFJF, 2014, Fig. 2.3, com os pontos renomeados de *q* para *r* |
+| Monografia | 3.4, construção do bilhar circular | Mesma dissertação de W. T. R. Fernandes, Fig. 2.5 |
+| Monografia | 3.6, trajetórias no círculo e no estádio | Geradas no [*Billiard Simulator*](https://www.mathworks.com/matlabcentral/fileexchange/10692-billiard-simulator), do MATLAB File Exchange, citado no texto |
+| Monografia | 3.7, expoentes de Lyapunov do estádio | B. Parker e A. Riina, [*Chaotic Billiards*](https://gauss.dartmouth.edu/~m53f09/proj/BenAlex_writeup.pdf), Dartmouth College, 2009, p. 6, com os eixos renomeados |
+| Monografia | 3.9, espaçamento de níveis no bilhar circular | S. Rahav, O. Richman e S. Fishman, "Point perturbations of circle billiards", *Journal of Physics A* 36, L529 (2003), Fig. 2(a) ([arXiv:nlin/0309061](https://arxiv.org/abs/nlin/0309061)) |
+| Monografia | 3.11, distribuições de espaçamento de níveis | Stöckmann (1999), Fig. 2.11. **Correção:** a legenda da monografia fala no estádio com a razão 2a/b crescendo, mas, no livro, os painéis (a) e (b) são ressonadores de micro-ondas retangulares, em duas faixas de frequência, e o (c) é um quarto de estádio |
+| Monografia | Apêndice 1, o código MATLAB (à direita) | Adaptado de um exemplo da internet; os comentários em inglês são do original, que não consegui identificar |
 
 ## Referências principais
 
