@@ -94,14 +94,14 @@ Os PDFs reproduzem figuras de outros autores, para fins de estudo. Na época, ne
 | Relatório final | 1.13, figuras de Chladni | H.-J. Stöckmann, *Quantum Chaos: An Introduction*, Cambridge University Press, 1999, Fig. 2.2 |
 | Relatório final | 1.15, ondas na superfície da água | Stöckmann (1999), Figs. 2.4(a) e 2.5(a), que reproduzem R. Blümel, I. H. Davidson, W. P. Reinhardt, H. Lin e M. Sharnoff, "Quasilinear ridge structures in water surface waves", *Physical Review A* 45, 2641 (1992) |
 | Monografia | 3.1, diagrama de bifurcação do mapa logístico | Jordan Pierce, [*Logistic Bifurcation map High Resolution*](https://commons.wikimedia.org/wiki/File:Logistic_Bifurcation_map_High_Resolution.png), Wikimedia Commons, em domínio público (CC0) |
-| Monografia | 3.2, expoente de Lyapunov do mapa logístico | Gráfico do código MATLAB do Apêndice 1 (ver a última linha) |
+| Monografia | 3.2, expoente de Lyapunov do mapa logístico | Imagem da página [*calculate lyapunov of the logistic map*](https://web.fs.uni-lj.si/lasin/wp-content/include-me/chaotic/Lyap_logistic/ly_logistic.html), do Laboratório de Sinergética (LASIN) da Faculdade de Engenharia Mecânica da Universidade de Ljubljana, com os rótulos λ e *r* acrescentados |
 | Monografia | 3.3, trajetória numa mesa qualquer | W. T. R. Fernandes, [*Propriedades Ergódicas do Bilhar no Estádio Elíptico*](https://repositorio.ufjf.br/jspui/handle/ufjf/10863), dissertação de mestrado, UFJF, 2014, Fig. 2.3, com os pontos renomeados de *q* para *r* |
 | Monografia | 3.4, construção do bilhar circular | Mesma dissertação de W. T. R. Fernandes, Fig. 2.5 |
 | Monografia | 3.6, trajetórias no círculo e no estádio | Geradas no [*Billiard Simulator*](https://www.mathworks.com/matlabcentral/fileexchange/10692-billiard-simulator), do MATLAB File Exchange, citado no texto |
 | Monografia | 3.7, expoentes de Lyapunov do estádio | B. Parker e A. Riina, [*Chaotic Billiards*](https://gauss.dartmouth.edu/~m53f09/proj/BenAlex_writeup.pdf), Dartmouth College, 2009, p. 6, com os eixos renomeados |
 | Monografia | 3.9, espaçamento de níveis no bilhar circular | S. Rahav, O. Richman e S. Fishman, "Point perturbations of circle billiards", *Journal of Physics A* 36, L529 (2003), Fig. 2(a) ([arXiv:nlin/0309061](https://arxiv.org/abs/nlin/0309061)) |
 | Monografia | 3.11, distribuições de espaçamento de níveis | Stöckmann (1999), Fig. 2.11. **Correção:** a legenda da monografia fala no estádio com a razão 2a/b crescendo, mas, no livro, os painéis (a) e (b) são ressonadores de micro-ondas retangulares, em duas faixas de frequência, e o (c) é um quarto de estádio |
-| Monografia | Apêndice 1, o código MATLAB (à direita) | Adaptado de um exemplo da internet; os comentários em inglês são do original, que não consegui identificar |
+| Monografia | Apêndice 1, o código MATLAB (à direita) | Mesma página da Universidade de Ljubljana; o código é o original, só o comentário do título foi acrescentado |
 
 ## Referências principais
 
