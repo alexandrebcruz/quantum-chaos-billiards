@@ -74,6 +74,7 @@ Este repositório foi montado em 2026 a partir do meu Google Drive.
   - os e-mails na capa da monografia;
   - as páginas de biografia e de agradecimentos da monografia, por isso a numeração pula da página iv para a vii;
   - os caminhos de pasta do meu computador, que o LaTeX grava dentro do arquivo.
+- **Nota desta versão.** Cada PDF começa com uma página acrescentada em 2026, antes da capa. Ela diz o que mudou em relação ao original, dá a fonte de cada figura de terceiros e traz a menção ao apoio da FAPESP.
 - **Ficaram de fora:**
   - os fontes em LaTeX;
   - os formulários e documentos da FAPESP;
@@ -85,7 +86,7 @@ O repositório não tem licença de uso: os direitos são do autor, e a leitura 
 
 ## Figuras de terceiros
 
-Os PDFs reproduzem figuras de outros autores, para fins de estudo. Na época, nem todas as legendas indicaram a fonte, que vai aqui.
+Os PDFs reproduzem figuras de outros autores, para fins de estudo. Na época, nem todas as legendas indicaram a fonte, que vai aqui e na nota da primeira página de cada PDF.
 
 | Documento | Figura | Fonte |
 |---|---|---|
